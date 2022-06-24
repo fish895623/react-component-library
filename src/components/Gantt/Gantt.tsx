@@ -4,8 +4,8 @@ export interface ButtonProps {
   label: string;
 }
 
-const Gantt = (props: ButtonProps) => {
-  return <>Hello{props.label}</>;
+const Gantt = () => {
+  return <>Hello</>;
 };
 
 export default Gantt;
