@@ -5,7 +5,7 @@ export interface ButtonProps {
 }
 
 const Gantt = () => {
-  return <>Hello</>;
+  return <>Hello World</>;
 };
 
 export default Gantt;
